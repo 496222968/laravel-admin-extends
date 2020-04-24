@@ -3,12 +3,12 @@
     "description": "description...",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/dongwencai/scaffold",
+    "homepage": "https://github.com/496222968/laravel-admin-extends",
     "license": "MIT",
     "authors": [
         {
-            "name": "your name",
-            "email": "your email"
+            "name": "QiDian",
+            "email": "496222968@qq.com"
         }
     ],
     "require": {
